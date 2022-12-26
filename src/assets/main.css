@@ -1,0 +1,12 @@
+@import './base.css';
+
+
+#app {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  overflow-y: auto;
+  background: linear-gradient(-29deg, #4959db 17%, #28c2ff 100%);
+}
