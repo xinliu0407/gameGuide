@@ -3,7 +3,7 @@
  * @Author: xinliu
  * @Date: 2022-12-26 10:33:07
  * @LastEditors: xinliu
- * @LastEditTime: 2022-12-26 14:45:46
+ * @LastEditTime: 2022-12-26 15:47:28
 -->
 <template>
   <div class="about">
